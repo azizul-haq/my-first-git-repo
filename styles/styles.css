@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+h2{
+    background-color: tomato;
+    font-family: sans-serif;
+    font-size: 22px;
+    padding: 20px;
+}
