@@ -1,9 +1,37 @@
 *{
     margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  
+}
+body{
+    background-image:url('https://media.istockphoto.com/id/1404226071/photo/pile-of-hilsa-fish-in-indian-fish-market-for-sale-ilishi-sale-in-kolkatta-fish-market.webp?b=1&s=170667a&w=0&k=20&c=Xk5t-2DsKpwabrDBkT2udHxKrpJEtLX5fcyqt_jUIss=') ;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h2{
-    background-color: tomato;
-    font-family: sans-serif;
+   color: whitesmoke;
     font-size: 22px;
+    padding: 10px;
+    
+}
+.fish-item{
     padding: 20px;
+    color: whitesmoke;
+    
+    
+}
+.fish-item h3{
+    padding: 5px;
+    margin: 5px;
+}
+.fish-item p{
+    margin: 5px;
+    padding: auto;
+}
+.fish-item img{
+    margin-top: 20px;
+    width: 40%;
+    border-radius: 20px;
+   border: 2px solid darkblue;
 }
