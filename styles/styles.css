@@ -35,3 +35,27 @@ h2{
     border-radius: 20px;
    border: 2px solid darkblue;
 }
+
+.meat-item{
+    padding: 20px;
+    color: whitesmoke;
+}
+.meat-item h3{
+    padding: 5px;
+    margin: 5px;
+}
+.meat-item p{
+    margin: 5px;
+    padding: auto;
+}
+.meat-item img{
+    margin-top: 20px;
+    width: 40%;
+    border-radius: 20px;
+    border: 2px solid darkblue;
+
+}
+.meat-item ol{
+    padding: 20px;
+    font-size: 18px;
+}
